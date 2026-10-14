@@ -1,0 +1,7 @@
+{
+  "name": "TaskFlow - Interactive State & DOM To-Do List",
+  "description": "An interactive, client-side To-Do List application featuring full CRUD, local data persistence, advanced filtering, and an interactive DOM event & state management tutorial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
